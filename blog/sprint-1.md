@@ -24,7 +24,7 @@
 # Low of Similarty or (Gestal Principles) are;
    - **Similarity (Invariance)** relationship between similar elements.
    - **Continuation** follow the continous flow of visual elements.
-   - **Clouser (Reification)** refer to see complete shapes
+   - **Clouser (Reification)** refer to see complete shapes.
    - **Proximity (Emergence)** simple shapes arrange together to create a more complex image.
    - **Figure/Ground (Multi-stability)** isolates shapes from background.
    - **Symmetry and Order** the design should be balanced and complete.
