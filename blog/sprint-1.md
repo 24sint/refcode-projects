@@ -22,12 +22,12 @@
 **BEM** stands for *Block Element Modifier*. The class name I used before is mostly one word, and if it two word, I will use single (-) to make one word. But in the the BEM it use (--) to adjust the style in the child element the one modifier.
 **Gestal** refers to **shape** or **form**, and the principle or lows of the rule describe how the  human eye persive the visual elements.
 # Low of Similarty or (Gestal Principles) are;
-   - Similarity (Invariance): relationship between similar elements.
-   - Continuation; follow the continous flow of visual elements.
-   - Clouser (Reification): refer to see complete shapes
-   - Proximity (Emergence): simple shapes arrange together to create a more complex image.
-   - Figure/Ground (Multi-stability): isolates shapes from background.
-   - Symmetry and Order:the design should be balanced and complete.
+   - **Similarity (Invariance)** relationship between similar elements.
+   - **Continuation** follow the continous flow of visual elements.
+   - **Clouser (Reification)** refer to see complete shapes
+   - **Proximity (Emergence)** simple shapes arrange together to create a more complex image.
+   - **Figure/Ground (Multi-stability)** isolates shapes from background.
+   - **Symmetry and Order** the design should be balanced and complete.
    
 - **Web design and other design** are similar for the concept of designing because both are focus on the user interface or make it more attractive to users. But people may use different principles or rules to make their website or othe project more impressive.
 
