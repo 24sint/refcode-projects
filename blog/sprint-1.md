@@ -10,7 +10,7 @@
 
 # HTML best practcise
 - I read the Html best practices that are easy to use, and best to practice all in our code as a developer.
-- **Clear code**: I like this quote about the clarity of our code.  ## "A house is only as strong as its foundation".
+- **Clear code**: I like this quote about the clarity of our code.  **"A house is only as strong as its foundation"**.
 
 # CSS best practices
 - I read and understand the css best practices, and it's also make our code clear and readable. So, would to use the best practices.
