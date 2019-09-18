@@ -15,7 +15,7 @@
 # CSS best practices
 - I read and understand the css best practices, and it's also make our code clear and readable. So, would to use the best practices.
 - Use **Useful Naming Conventions**. It helps we can redesign our site with out changing the HTML only by modifying the css.
-- From the best practices what I learn new, minify CSS file using the **CSS inify CSS file size with CSS Compressors**
+- Use minify CSS file using the **CSS inify CSS file size with CSS Compressors**
 - Use **a master stylesheet** to remove the default browser styling.
 - Use **multiple stylesheets** to remove the complexity of the stylesheet and instead of making giant stylesheet.
 - Keep, and use a **Color Reference**.
