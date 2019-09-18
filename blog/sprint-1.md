@@ -16,7 +16,7 @@ _ **GitHub Page** is a page that has our projects or all repositories in our Git
 - I read and understand the css best practices, and it's also make our code clear and readable. So, would to use the best practices.
 - Use **Useful Naming Conventions**. It helps we can redesign our site with out changing the HTML only by modifying the css.
 - From the best practices what I learn new, minify CSS file using the **CSS inify CSS file size with CSS Compressors**
-_ Use **a master stylesheet** to remove the default browser styling.
+- Use **a master stylesheet** to remove the default browser styling.
 - Use **multiple stylesheets** to remove the complexity of the stylesheet and instead of making giant stylesheet.
 - Keep, and use a **Color Reference**
 **BEM** stands for *Block Element Modifier*. The class name I used before is mostly one word, and if it two word, I will use single (-) to make one word. But in the the BEM it use (--) to adjust the style in the child element the one modifier.
