@@ -5,7 +5,7 @@
 
 # About GitHub
 - **GitHub** is doing for making our work visible in the browser.
-_ **GitHub Page** is a page that has our projects or all repositories in our GitHub page.
+- **GitHub Page** is a page that has our projects or all repositories in our GitHub page.
 -  When we **merge** our code, we add the code to our project, and it become updated. 
 
 # HTML best practcise
