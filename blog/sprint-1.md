@@ -18,7 +18,8 @@
 - From the best practices what I learn new, minify CSS file using the **CSS inify CSS file size with CSS Compressors**
 - Use **a master stylesheet** to remove the default browser styling.
 - Use **multiple stylesheets** to remove the complexity of the stylesheet and instead of making giant stylesheet.
-- Keep, and use a **Color Reference**
+- Keep, and use a **Color Reference**.
+
 **BEM** stands for *Block Element Modifier*. The class name I used before is mostly one word, and if it is two word, I used single (-) to make one word. But in the the BEM it uses (--) to adjust the style in the child element the one to modifier.
 **Gestal** refers to **shape** or **form**, and the principle or lows of the rule describe how the  human eye persive the visual elements.
 # Low of Similarty or (Gestal Principles) are;
